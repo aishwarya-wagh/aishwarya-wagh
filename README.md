@@ -1,4 +1,4 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/05/02/52/50/360_F_502525048_QXSrHXUczD9yoyep1wVTpOFH0SeXhsrU.jpg)](https://www.linkedin.com/in/wagh-aishwarya/)
+[![MasterHead](https://engineering.fb.com/wp-content/uploads/2019/11/Data_PortabilityPrivacy_BANNER_003.gif)](https://www.linkedin.com/in/wagh-aishwarya/)
 <h1 align="center">Hi 👋, I'm Aishwarya Wagh</h1>
 <h3 align="center">A passionate data developer</h3>
 
