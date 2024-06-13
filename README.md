@@ -26,6 +26,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Interview preparation SQL](https://medium.com/@beginnerMindSet/interview-preparation-sql-ea9780c6bd04?source=rss-dfcf80453601------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
