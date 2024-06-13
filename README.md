@@ -1,3 +1,4 @@
+![MasterHead](https://as1.ftcdn.net/v2/jpg/03/45/31/28/1000_F_345312834_y1esquNNNnxZumL9UwVTnzg7qpeb95Dx.jpg)
 <h1 align="center">Hi 👋, I'm Aishwarya Wagh</h1>
 <h3 align="center">A passionate data developer</h3>
 
