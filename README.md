@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Wagh</h1>
 <h3 align="center">A passionate data developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwarya-wagh&label=Profile%20views&color=0e75b6&style=flat" alt="aishwarya-wagh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aishwarya-wagh" alt="aishwarya-wagh" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif">
 
 - 🌱 I’m currently learning **Apache Kafka, Apache Flink, Scala**
 
