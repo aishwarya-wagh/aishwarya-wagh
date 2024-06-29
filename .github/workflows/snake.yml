@@ -19,13 +19,7 @@ jobs:
         with:
           github_user_name: aishwarya-wagh
           gif_out_path: dist/github-snake.gif
-          svg_out_path: dist/github-snake.svg
-
-      - name: Move SVG to the assets directory
-        run: |
-          mkdir -p aishwarya-wagh/assets
-          mv dist/github-snake.svg aishwarya-wagh/assets/github-snake.svg
-        shell: bash
+          svg_out_path: aishwarya-wagh/assets/github-snake.svg
 
       - name: Commit and push the SVG
         uses: stefanzweifel/git-auto-commit-action@v4
