@@ -17,16 +17,19 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: aishwarya-wagh
-          outputs: dist/github-snake.svg
+          outputs: dist/snake.svg
+
+      - name: List directory for debugging
+        run: ls -R
 
       - name: Commit and push the SVG
         env:
-          ACTIONS_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
+          ACTIONS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p assets
-          mv dist/github-snake.svg assets/github-snake.svg
+          mv dist/snake.svg assets/github-snake.svg
           git add assets/github-snake.svg
           git commit -m "Generate snake animation"
           git push
