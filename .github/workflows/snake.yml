@@ -25,14 +25,14 @@ jobs:
 
       - name: Move SVG to assets
         run: |
-          mkdir -p aishwarya-wagh/assets
-          mv github-contribution-grid-snake.svg aishwarya-wagh/assets/
+          mkdir -p assets
+          mv github-contribution-grid-snake.svg assets/
 
       - name: Verify SVG moved
-        run: ls -la aishwarya-wagh/assets
+        run: ls -la assets
 
       - name: Commit and push the SVG
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Generate snake animation"
-          file_pattern: "aishwarya-wagh/assets/github-contribution-grid-snake.svg"
+          file_pattern: "assets/github-contribution-grid-snake.svg"
