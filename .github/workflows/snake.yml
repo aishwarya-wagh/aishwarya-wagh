@@ -11,28 +11,23 @@ jobs:
 
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v3  # Updated to use Node.js 20
+        uses: actions/checkout@v3
 
       - name: Generate Snake Animation
-        uses: Platane/snk@master
-        id: generate_snk
+        uses: Platane/snk@v3.0.1
         with:
           github_user_name: aishwarya-wagh
-          svg_out_path: github-contribution-grid-snake.svg  # Corrected input parameter name
+          gif_out_path: dist/github-snake.gif
+          svg_out_path: dist/github-snake.svg
 
-      - name: Verify SVG file exists
-        run: ls -la
-
-      - name: Move SVG to assets
+      - name: Push SVG to the assets directory
         run: |
-          mkdir -p assets
-          mv github-contribution-grid-snake.svg assets/
-
-      - name: Verify SVG moved
-        run: ls -la assets
+          mkdir -p aishwarya-wagh/assets
+          mv dist/github-snake.svg aishwarya-wagh/assets/github-snake.svg
+        shell: bash
 
       - name: Commit and push the SVG
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Generate snake animation"
-          file_pattern: "assets/github-contribution-grid-snake.svg"
+          file_pattern: "aishwarya-wagh/assets/github-snake.svg"
