@@ -1,0 +1,39 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs at 00:00 UTC every day
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install py-github-stats
+        run: pip install py-github-stats
+
+      - name: Generate Snake Animation
+        run: |
+          python -c "
+          import pygithubstats as gh;
+          gh.snake('aishwarya-wagh', 'github-contribution-grid-snake.svg')"
+
+      - name: Move SVG to assets
+        run: |
+          mkdir -p aishwarya-wagh/assets
+          mv github-contribution-grid-snake.svg aishwarya-wagh/assets/
+
+      - name: Commit and push the SVG
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Generate snake animation"
+          file_pattern: "aishwarya-wagh/assets/github-contribution-grid-snake.svg"
