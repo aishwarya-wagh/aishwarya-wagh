@@ -22,7 +22,7 @@ jobs:
       - name: Move SVG to assets
         run: |
           mkdir -p aishwarya-wagh/assets
-          mv github-contribution-grid-snake.svg aishwarya-wagh/assets/
+          mv github-snake.svg aishwarya-wagh/assets/
 
       - name: Commit and push the SVG
         uses: stefanzweifel/git-auto-commit-action@v4
