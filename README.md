@@ -88,8 +88,8 @@
 
 
 <p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=aishwarya-wagh&show_icons=true&cache_bust=true&random_number=123">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya-wagh&size_weight=0.0005&count_weight=0.3&layout=compact&cache_bust=true&random_number=123">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=aishwarya-wagh&show_icons=true&cache_bust=true">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya-wagh&size_weight=0.0005&count_weight=0.3&layout=compact&cache_bust=true">
 </p>
 
 
