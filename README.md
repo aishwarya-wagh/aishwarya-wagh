@@ -26,6 +26,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing Apache Spark: A Comprehensive Guide](https://medium.com/@beginnerMindSet/securing-apache-spark-a-comprehensive-guide-adf73010cc5d?source=rss-dfcf80453601------2)
 - [Interview preparation SQL](https://medium.com/@beginnerMindSet/interview-preparation-sql-ea9780c6bd04?source=rss-dfcf80453601------2)
 <!-- BLOG-POST-LIST:END -->
 
