@@ -81,20 +81,22 @@
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=aishwarya-wagh&border_radius=5&card_width=800">
+  <img  width="650" src="https://streak-stats.demolab.com?user=aishwarya-wagh&border_radius=5&card_width=800">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya-wagh&size_weight=0.0005&count_weight=0.3&layout=compact&cache_bust=true">
 </p>
 
 
 ---
 
 
-<p align="center">
+<!--<p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=aishwarya-wagh&show_icons=true&cache_bust=true">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya-wagh&size_weight=0.0005&count_weight=0.3&layout=compact&cache_bust=true">
 </p>
 
 
-
+-->
  
 
 <p align="center">
