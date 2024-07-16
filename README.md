@@ -81,9 +81,9 @@
 
   
 <p align="center">
-  <img  width="450" src="https://streak-stats.demolab.com?user=aishwarya-wagh&border_radius=5&card_width=800">
+  <img   src="https://streak-stats.demolab.com?user=aishwarya-wagh&border_radius=5">
 
-  <img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya-wagh&size_weight=0.0005&count_weight=0.3&layout=compact&cache_bust=true">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya-wagh&size_weight=0.0005&count_weight=0.3&layout=compact&cache_bust=true">
 </p>
 
 
