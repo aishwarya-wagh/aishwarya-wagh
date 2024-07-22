@@ -26,6 +26,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Highly Scalable and Efficient Data Pipeline with dbt &amp; Airflow](https://medium.com/@beginnerMindSet/building-a-highly-scalable-and-efficient-data-pipeline-with-dbt-airflow-d91f74b7bc2a?source=rss-dfcf80453601------2)
+- [Mastering Kafka Resilience: Preventing and Detecting Message Loss in Data Streams](https://medium.com/@beginnerMindSet/mastering-kafka-resilience-preventing-and-detecting-message-loss-in-data-streams-f93f52cef0fb?source=rss-dfcf80453601------2)
 - [Securing Apache Spark: A Comprehensive Guide](https://medium.com/@beginnerMindSet/securing-apache-spark-a-comprehensive-guide-adf73010cc5d?source=rss-dfcf80453601------2)
 - [Interview preparation SQL](https://medium.com/@beginnerMindSet/interview-preparation-sql-ea9780c6bd04?source=rss-dfcf80453601------2)
 <!-- BLOG-POST-LIST:END -->
