@@ -26,10 +26,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JSON vs. Parquet in Data Lakes: What’s the Difference and Which Should You Use?](https://medium.com/@beginnerMindSet/json-vs-parquet-in-data-lakes-whats-the-difference-and-which-should-you-use-e21ee15874b0?source=rss-dfcf80453601------2)
 - [Building a Highly Scalable and Efficient Data Pipeline with dbt &amp; Airflow](https://medium.com/@beginnerMindSet/building-a-highly-scalable-and-efficient-data-pipeline-with-dbt-airflow-d91f74b7bc2a?source=rss-dfcf80453601------2)
 - [Mastering Kafka Resilience: Preventing and Detecting Message Loss in Data Streams](https://medium.com/@beginnerMindSet/mastering-kafka-resilience-preventing-and-detecting-message-loss-in-data-streams-f93f52cef0fb?source=rss-dfcf80453601------2)
 - [Securing Apache Spark: A Comprehensive Guide](https://medium.com/@beginnerMindSet/securing-apache-spark-a-comprehensive-guide-adf73010cc5d?source=rss-dfcf80453601------2)
-- [Interview preparation SQL](https://medium.com/@beginnerMindSet/interview-preparation-sql-ea9780c6bd04?source=rss-dfcf80453601------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
